@@ -1,0 +1,245 @@
+{
+  "quizes": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode hello world motherfuckers"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "body": "Math",
+      "quantity": 15,
+      "postId": 1,
+      "image": "https://i.pinimg.com/564x/76/88/5f/76885f1099d3dc3c7b6a5b1c1ae7e1e1.jpg",
+      "questions":[
+        {
+          "id": 1,
+          "text":"8 + 2(2 + 2)",
+          "optoins":[
+            {
+              "id": 1,
+              "label": "A",
+              "text": "16",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "label": "B",
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "label": "C",
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 4,
+              "label": "D",
+              "text": "4",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
